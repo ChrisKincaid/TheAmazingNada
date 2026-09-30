@@ -1,0 +1,7 @@
+/build/
+/.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+CMakeUserPresets.json

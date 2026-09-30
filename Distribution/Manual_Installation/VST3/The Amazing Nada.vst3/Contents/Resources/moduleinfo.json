@@ -1,0 +1,58 @@
+{
+  "Name": "The Amazing Notta",
+  "Version": "1.0.0",
+  "Factory Info": {
+    "Vendor": "Notta Audio",
+    "URL": "",
+    "E-Mail": "",
+    "Flags": {
+      "Unicode": true,
+      "Classes Discardable": false,
+      "Component Non Discardable": false,
+    },
+  },
+  "Classes": [
+    {
+      "CID": "ABCDEF019182FAEB4E74746154416E31",
+      "Category": "Audio Module Class",
+      "Name": "The Amazing Notta",
+      "Vendor": "Notta Audio",
+      "Version": "1.0.0",
+      "SDKVersion": "VST 3.7.12",
+      "Sub Categories": [
+        "Fx",
+      ],
+      "Class Flags": 0,
+      "Cardinality": 2147483647,
+      "Snapshots": [
+      ],
+    },
+    {
+      "CID": "ABCDEF011234ABCD4E74746154416E31",
+      "Category": "Component Controller Class",
+      "Name": "The Amazing Notta",
+      "Vendor": "Notta Audio",
+      "Version": "1.0.0",
+      "SDKVersion": "VST 3.7.12",
+      "Sub Categories": [
+        "Fx",
+      ],
+      "Class Flags": 0,
+      "Cardinality": 2147483647,
+      "Snapshots": [
+      ],
+    },
+    {
+      "CID": "ABCDEF01C0DEF00D4E74746154416E31",
+      "Category": "Plugin Compatibility Class",
+      "Name": "The Amazing Notta",
+      "Vendor": "Notta Audio",
+      "Version": "1.0.0",
+      "SDKVersion": "VST 3.7.12",
+      "Class Flags": 0,
+      "Cardinality": 2147483647,
+      "Snapshots": [
+      ],
+    },
+  ],
+}
